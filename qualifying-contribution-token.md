@@ -4,9 +4,9 @@ Qualifying Contribution Token
 Introduction
 -------------
 
-This document outlines the concept for a token, which is given to contributors of coindashboards.com. The concept of Qualifying Contributions stems from the work of [FairShares](http://www.fairshares.coop), which is a development model for self-governing enterprises with a unique multi-stakeholder approach to building up value within and around an organization.
+This document outlines the concept for a token, which is given to contributors of coindashboards.com for their dedication, time spent, skill and knowledge provided to the organization. A contributor for that matter is everyone, who adds some form of _value of notable substance_ to the website, the analytics and the organization itself, called a Qualifying Contribution.
 
-coindashboards.com aims to reward all contributors for their dedication, time spent, skill and knowledge provided to the organization. A contributor for that matter is everyone, who adds some form of _value of notable substance_ to the website, the analytics and the organization itself, called a Qualifying Contribution. What are defined as Qualifying Contributions will be developed continuously and made available on GitHub in [qualifying-contribution-list.md](qualifying-contribution-list.md).
+The concept of Qualifying Contributions stems from the work of [FairShares](http://www.fairshares.coop), which is a development model for self-governing enterprises with a unique multi-stakeholder approach to increasing value within and around an organization. What coindashboards.com defines as Qualifying Contributions will be developed and updated continuously and made available on GitHub in [qualifying-contribution-list.md](qualifying-contribution-list.md).
 
 Technology
 ----------
