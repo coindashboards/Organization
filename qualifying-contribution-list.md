@@ -5,6 +5,7 @@ Development - Backend
 =======================
 
 Senior Developer - 1 Day - 100 CDB
+
 Junior Developer - 1 Day - 50 CDB
 
 Experimental Coding - 1 Day - 25 CDB
@@ -15,6 +16,7 @@ Development - Frontend
 =======================
 
 Senior Developer - 1 Day - 100 CDB
+
 Junior Developer - 1 Day - 50 CDB
 
 Experimental Coding - 1 Day - 25 CDB
