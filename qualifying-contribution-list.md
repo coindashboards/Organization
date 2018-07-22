@@ -28,6 +28,8 @@ Index Analysis
 
 Index Analysis and Creation - 500 CDB
 
+Index Peer Review - 50 CDB
+
 Index Maintenance ("The index guardian") - Monthly - 500 CDB 
 
 
@@ -36,6 +38,8 @@ Portfolio Analysis
 ==============
 
 Portfolio Analysis and Creation - 500 CDB
+
+Portfolio Peer Review - 50 CDB
 
 Portfolio Maintenance ("The portfolio guardian") - 500 CDB 
 
