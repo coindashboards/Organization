@@ -6,7 +6,7 @@ Introduction
 
 This document outlines the concept for a token, which is given to contributors of coindashboards.com for their dedication, time spent, skill and knowledge provided to the organization. A contributor for that matter is everyone, who adds some form of _value of notable substance_ to the website, the analytics and the organization itself, called a Qualifying Contribution.
 
-The concept of Qualifying Contributions stems from the work of [FairShares](http://www.fairshares.coop), which is a development model for self-governing enterprises with a unique multi-stakeholder approach to increasing value within and around an organization. What coindashboards.com defines as Qualifying Contributions will be developed and updated continuously and made available on GitHub in [qualifying-contribution-list.md](qualifying-contribution-list.md).
+The concept of Qualifying Contributions stems from the work of [FairShares](http://www.fairshares.coop), which is a model for self-governing organizations with a multi-stakeholder approach to increasing value within and around such organization. What coindashboards.com defines as Qualifying Contributions will be developed and updated continuously and made available on GitHub in [qualifying-contribution-list.md](qualifying-contribution-list.md).
 
 Technology
 ----------
@@ -17,6 +17,8 @@ Concept
 ---------
 
 __Token Dynamics__
+
+The token creation will be split into time intervals to allow for more flexibility in governance, token-design and valuation given the status of the organization and its projects at the time.
 
 The coindashboards.com organization will initially create 200,000 tokens named __CDB-One__, which are spendable until Ethereum  block 8.000.000 has been reached. The remaining tokens are burned thereafter. __CDB-One__ is given to contributors as per the list of definitions of Qualifying Contributions and remain valid indefinitely.
 
@@ -34,8 +36,6 @@ Owners can at any time trade their tokens on an exchange. However, with block 8,
 * Sell their CDB-One tokens back to the coindashboards.com organization in return for Ether (ETH), upon which those CDB-One tokens are burned. The exchange rate is determined as described below.
 
 With block 10,000,000 reached and CDB-Three issued, now owners of CDB-Two have the choices outlined above. This eventually continues with block 12,000,000 reached, CDB-Four issued and CDB-Three sold or exchanged.
-
-The advantage of splitting the token into time intervals is that it allows for more flexibility in governance, design and valuation given the status of the organization and its projects.
 
 
 __Exchange Rate on Buy Back__
