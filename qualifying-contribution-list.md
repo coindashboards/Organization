@@ -1,5 +1,10 @@
 This file contains Qualifying Contributions matched with a value in CDB tokens. This list is continuously being developed, extended and adjusted.
 
+Membership
+===========
+
+Purchasing a monthly membership at coindashboards.com - Monthly - 50 CDB
+
 
 Development - Backend
 =======================
@@ -47,7 +52,7 @@ Portfolio Maintenance ("The portfolio guardian") - 500 CDB
 
 External Code Sources / Analytics
 =================================
-(this is a form of licencing)
+(this is a form of licencing code of third parties)
 
 Providing data feeds - Monthly - 200 CDB 
 
@@ -77,7 +82,7 @@ tba
 Admin
 =======================
 
-tba
+Participating in a vote - 25 CDB
 
 
 Legal and Tax
