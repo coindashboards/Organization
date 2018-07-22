@@ -49,10 +49,16 @@ Portfolio Peer Review - 50 CDB
 Portfolio Maintenance ("The portfolio guardian") - 500 CDB 
 
 
+Interlectual Property
+======================
+(this is a form of licencing code from contributors)
+
+tba
+
 
 External Code Sources / Analytics
 =================================
-(this is a form of licencing code of third parties)
+(this is a form of licencing code from third parties)
 
 Providing data feeds - Monthly - 200 CDB 
 
@@ -63,7 +69,7 @@ Providing and maintaining the code enabling new analytics - Monthly - 500 CDB
 Content Management
 =======================
 
-Maintaining 1 page including the initial publication - Monthly - 50 CDB
+Maintaining 1 page including its initial publication - Monthly - 50 CDB
 
 
 
